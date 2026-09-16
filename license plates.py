@@ -1,4 +1,4 @@
-# generating number plates in Azania..
+# generating number plates in South Africa..
 
 import random
 
